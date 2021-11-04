@@ -8,13 +8,12 @@ function Nav(props) {
       currentCategory,
   } = props
 
-  const handleClick = (item) => {
-    console.log(item)
+  const handleClick = item => {
     return item
   }
 
   return (
-    <header data-testid="header" className="flex-row px-1">
+    <header data-testid="header" className="flex-row px-1"> 
       <h2>
         <a data-testid="link" href="/">
           <span role="img" aria-label="camera"> 📸</span> Oh Snap!
