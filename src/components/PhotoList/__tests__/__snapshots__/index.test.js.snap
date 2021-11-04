@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Photo list renders renders 1`] = `
+exports[`PhotoList is rendering renders 1`] = `
 <DocumentFragment>
   <div>
     <div
